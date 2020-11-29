@@ -1,4 +1,4 @@
-# Cartoon Collections - Part 1
+.. # Cartoon Collections - Part 1
 
 ## Learning Goals
 
